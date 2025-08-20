@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MP4_Toolnix/1.0.0": {
+        "runtime": {
+          "MP4_Toolnix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MP4_Toolnix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
